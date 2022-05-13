@@ -7,3 +7,61 @@ A passionate full-stack developer from FLoria, I work to create excellent, respo
 <a href="https://github.com/Marlied1"><img align="center" src="https://user-images.githubusercontent.com/96489451/167770846-9d52340a-1139-4891-8ec9-ec239e63914e.png" alt="Marlied" height="40" width="40" /></a>
 <a href="mailto:marliedenis3@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/96489451/167771283-dffc9688-605e-47bc-b33b-d598c1e61ae2.png" alt="marliedenis" height="40" width="40" /></a>
 </p>
+
+<h1 align="center">Projects</h1>
+
+
+<div align="center">
+  <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Meal Finder</h3>
+          <p align="center">
+            <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
+            <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a> </span>
+            <p align="center">
+              Generate a recipe to make dinner based on cravings.
+            </p>
+          </p>
+        </td>
+      <td width="50%">
+          <h3 align="center">Coming Soon</h3>
+          <p align="center">
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <p align="center">
+              Coming Soon
+            </p>
+          </p>
+        </td>
+ </tr>
+ <tr>
+  <td width="50%">
+          <h3 align="center">Coming Soon</h3>
+          <p align="center">
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <p align="center">
+              Coming Soon
+            </p>
+          </p>
+        </td>
+              
+   <td width="50%">
+          <h3 align="center">Coming Soon</h3>
+          <p align="center">
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to live website" height="25px"></a> </span>
+            <p align="center">
+              coming Soon
+            </p>
+          </p>
+        </td>
+      </tr>
+  </table>
+</div>
+
+
+<h1 align="center">Technologies</h1>
+<p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167900449-4fb57eb4-89b4-46bc-ac21-d0ebebf9dae5.png" alt="languages" width="100%"/> </a> <a
+</p>
