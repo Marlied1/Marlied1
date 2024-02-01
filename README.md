@@ -1,8 +1,8 @@
 ![IMG_1804](https://github.com/Marlied1/Marlied1/assets/101306894/9cb89832-a725-4bbb-8f3c-f2342fa5ed93)
 
 
-<h1 align="center">Hi 👋, I'm Marlie D.</h1>
-<p align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations. I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.</p>
+<h1 align="center">Hello 👋🏽, I am Marlie D.</h1>
+<p align="center">A passionate full-Stack developer from Central Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations. I am currently open to any new clients or opportunities.</p>
 
 
 
