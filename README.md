@@ -16,7 +16,7 @@
           <h3 align="center">Portfolio</h3>
           <p align="center">
             <a href="https://www.marlietechdesigns.com" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt= </a>
-            <span> <a href="https://github.com/marlied1/my-portfolio-site.git" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(165,207,210)" alt="button to repository" height ="25px"></a> <a href="https://www.marlietechdesigns.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(165,207,210)?style=flat-square" alt="button to website" height="25px"></a> </span>
+            <span> <a href="https://github.com/marlied1/my-portfolio-site.git" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(212,175,55)" alt="button to repository" height ="25px"></a> <a href="https://www.marlietechdesigns.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(212,175,55)?style=flat-square" alt="button to website" height="25px"></a> </span>
             <p align="center">
               Check out my projects here.
             </p>
